@@ -1,5 +1,6 @@
 Hey uh A-UD here, the folders and files are a mess because github can't github correctly (I hate it here).
-Anyway for all the files go to the release and unzip the 7zip. Too lazy to properly format.
+
+Anyway for all the files go to the release and unzip. Too lazy to properly format.
 
 ![tetr.io](https://kagari.moe/outer_assets/tetrio/logo-desktop.png)
 
